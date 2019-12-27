@@ -8,4 +8,4 @@ def meow
   @meow
 maru = Cat.new 
 maru.name = "Maru"
-maru.meow = "meow"
+maru.meow 

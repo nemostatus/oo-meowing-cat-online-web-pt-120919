@@ -4,7 +4,7 @@ def meow=(meow)
 @meow =meow
 end 
 def meow
-@meow
+@meow puts "meow"
 
 end
 end
